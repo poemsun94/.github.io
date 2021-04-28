@@ -1,0 +1,411 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=DotGothic16&family=Kiwi+Maru&family=Kosugi+Maru&family=Noto+Serif+TC:wght@600;700&family=Press+Start+2P&family=Train+One&display=swap');
+
+body{
+  max-width: 1280px;
+  left:0;
+  right: 0;
+  padding:0;
+  margin:0;
+  margin: auto;
+}
+.area{
+  position: relative;
+  width: 100vw;
+  min-height: 130vh;
+}
+.area .content{
+  position: absolute;
+  width: 1280px;
+  max-width: 1280px;
+  background-color: no-color;
+  height: 130vh;
+  left: 0;
+  right: 0;
+  margin: auto;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.area1{
+  background-image: url(https://i.imgur.com/g3AiaXb.jpg);
+  background-size: cover;
+  background-position: right bottom;
+}
+.logo{
+  position:absolute;
+  top:30px;
+  left:200px;}
+.xxy{
+  position: absolute;
+  text-align:center;
+  top:560px;
+  left:550px;
+  background-color: #f0bdec;
+  padding: 15px;
+  border-radius:40px 40px 40px 40px;
+  text-decoration: none;
+  font-family: 'Press Start 2p', sans-serif;
+  font-size:26px;
+  color: #87033e;
+}
+.xxy:hover{
+  background-color: #e3325b;
+  color: #fff;
+}
+
+.area2{
+  background-color: #a48fb0;
+  background-size: cover;
+  background-position: right bottom;
+  color: #000;
+  height: initial;
+  min-height: 100vh;
+}
+.area2 .content{
+  position: absolute;
+  width: 1280px;
+  max-width: 1280px;
+  background-color: no-color;
+  height: 100%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.area2 pic1{
+  position:absolute;
+  top:130px;
+  left:560px;}
+.area2 pic2{
+  position:absolute;
+  top:350px;
+  left:360px;}
+.area2 article{
+  position:absolute;
+  font-weight: 1000;
+  font-size:10px;
+  color:#FFF;
+  top:530px;
+  left:430px;
+  font-family: 'Press Start 2p', sans-serif;
+}
+
+.area3{
+  background-image: url(https://i.imgur.com/RaMZLIL.jpg);
+  background-size: cover;
+  background-position: right bottom;
+  height: initial;
+  min-height: 100vh;
+}
+.area3 .content{
+  background-color: no-color;
+}
+.area3 article1{
+  position:absolute;
+  font-weight: 100;
+  font-size:200px;
+  letter-spacing:-100px;
+  line-height:180px;
+  opacity: 0.8;
+  color:#FFF;
+  top:0px;
+  left:-200px;
+  font-family: 'Train One', sans-serif;
+}
+.area3 pic1{
+  position:absolute;
+  top:-20px;
+  left:700px;}
+.area3 article2{
+  position:absolute;
+  font-weight: 1000;
+  font-size:26px;
+  color:#6f6f76;
+  top:150px;
+  left:430px;
+  font-family: 'Kiwi Maru', sans-serif;
+  line-height:50px;
+}
+.area3 icon1{
+  position:absolute;
+  top:510px;
+  left:430px;}
+.area3 icon2{
+  position:absolute;
+  top:510px;
+  left:550px;}
+
+.area4{
+  background-color: #784b47;
+  background-size: cover;
+  background-position: right bottom;
+}
+.area4 .content{
+  background-color: no-color;
+}
+.sevendwarfs{
+  position:absolute;
+  left:420px;
+  top:100px;
+}
+.title1{
+  position:absolute;
+  font-weight: 1000;
+  font-size:40px;
+  color:#784b47;
+  top:120px;
+  left:570px;
+  font-family: 'Noto Serif TC', serif;
+  text-align:center; 
+}
+.photo1{
+  position:absolute;
+  left:-80px;
+  top:350px;
+}
+.text4{
+  position:absolute;
+  font-weight: 1000;
+  font-size:26px;
+  color:#e6e0cf;
+  top:350px;
+  left:850px;
+  font-family: 'Kiwi Maru', sans-serif;
+  line-height:50px;
+}
+.photo2{
+  position:absolute;
+  left:570px;
+  top:350px;
+}
+.photo3{
+  position:absolute;
+  left:570px;
+  top:580px;
+}
+
+.area5{
+  background-color: #ce9e20;
+  background-size: cover;
+  background-position: right bottom;
+}
+.area5 .content{
+  background-color: no-color;
+}
+.winniethepooh{
+  position:absolute;
+  left:420px;
+  top:100px;
+}
+.photo4{
+  position:absolute;
+  left:-20px;
+  top:350px;
+}
+.title2{
+  position:absolute;
+  font-weight: 1000;
+  font-size:40px;
+  color:#f3eee4;
+  top:120px;
+  left:590px;
+  font-family: 'Noto Serif TC', serif;
+  text-align:center; 
+}
+.text5{
+  position:absolute;
+  font-weight: 1000;
+  font-size:26px;
+  color:#58430a;
+  top:400px;
+  left:850px;
+  font-family: 'Kiwi Maru', sans-serif;
+  line-height:50px;
+}
+.photo5{
+  position:absolute;
+  left:500px;
+  top:450px;
+}
+
+.area6{
+  background-color: #3f4d63;
+  background-size: cover;
+  background-position: right bottom;
+}
+.area6 .content{
+  background-color: no-color;
+}
+.title3{
+  position:absolute;
+  font-weight: 1000;
+  font-size:40px;
+  color:#202022;
+  top:120px;
+  left:610px;
+  font-family: 'Noto Serif TC', serif;
+  text-align:center; 
+}
+.text6{
+  position:absolute;
+  font-weight: 1000;
+  font-size:26px;
+  color:#c6ccd8;
+  top:400px;
+  left:850px;
+  font-family: 'Kiwi Maru', sans-serif;
+  line-height:50px;
+}
+.photo6{
+  position:absolute;
+  left:10px;
+  top:300px;
+}
+
+.area7{
+  background-color: #603078;
+  background-size: cover;
+  background-position: right bottom;
+}
+.area7 .content{
+  background-color: no-color;
+}
+.photo7{
+  position:absolute;
+  left:20px;
+  top:350px;
+}
+.title4{
+  position:absolute;
+  font-weight: 1000;
+  font-size:40px;
+  color:#604860;
+  top:120px;
+  left:590px;
+  font-family: 'Noto Serif TC', serif;
+  text-align:center; 
+}
+.text7{
+  position:absolute;
+  font-weight: 1000;
+  font-size:26px;
+  color:#f0f0f0;
+  top:350px;
+  left:850px;
+  font-family: 'Kiwi Maru', sans-serif;
+  line-height:50px;
+}
+
+.area8{
+  background-color: #736759;
+  background-size: cover;
+  background-position: right bottom;
+}
+.area8 .content{
+  background-color: no-color;
+}
+.photo8{
+  position:absolute;
+  left:50px;
+  top:300px;
+}
+.title5{
+  position:absolute;
+  font-weight: 1000;
+  font-size:40px;
+  color:#463926;
+  top:120px;
+  left:610px;
+  font-family: 'Noto Serif TC', serif;
+  text-align:center; 
+}
+.text8{
+  position:absolute;
+  font-weight: 1000;
+  font-size:24px;
+  color:#fff9e3;
+  top:290px;
+  left:850px;
+  font-family: 'Kiwi Maru', sans-serif;
+  line-height:50px;
+}
+
+.area9{
+  background-image: url(https://argodeon.files.wordpress.com/2020/02/b274c4f08e8c530a7376444c152b38f6.jpg);
+  background-size: cover;
+  background-position: right bottom;
+}
+.area9 .content{
+  background-color: rgba(255,255,255,0.5);
+}
+.title6{
+  position:absolute;
+  font-weight: 1000;
+  font-size:40px;
+  color:#463926;
+  top:120px;
+  left:610px;
+  font-family: 'Noto Serif TC', serif;
+  
+}
+.vlog{
+  position: absolute;
+  text-align:center;
+  top:120px;
+  left:90px;
+  background-color: #85a1c1;
+  padding: 15px;
+  border-radius:40px 40px 40px 40px;
+  text-decoration: none;
+  font-family: 'Kiwi Maru', serif;
+  font-size:26px;
+  color: #274b69;
+}
+.vlog:hover{
+  background-color: #605d94;
+  color: #fff;
+}
+.disney{
+  position: absolute;
+  text-align:center;
+  top:280px;
+  left:90px;
+  background-color: #85a1c1;
+  padding: 15px;
+  border-radius:40px 40px 40px 40px;
+  text-decoration: none;
+  font-family: 'Kiwi Maru', serif;
+  font-size:26px;
+  color: #274b69;
+}
+.disney:hover{
+  background-color: #605d94;
+  color: #fff;
+}
+.cloud{
+  position: absolute;
+  text-align:center;
+  top:410px;
+  left:90px;
+  background-color: #85a1c1;
+  padding: 15px;
+  border-radius:40px 40px 40px 40px;
+  text-decoration: none;
+  font-family: 'Kiwi Maru', serif;
+  font-size:26px;
+  color: #274b69;
+}
+.cloud:hover{
+  background-color: #605d94;
+  color: #fff;
+}
+.text9{
+  position:absolute;
+  font-weight: 1000;
+  font-size:20px;
+  color:#202022;
+  top:320px;
+  left:610px;
+  font-family: 'Noto Serif TC', serif;
+  line-height:30px;
+}
